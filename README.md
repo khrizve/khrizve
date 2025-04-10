@@ -1,4 +1,4 @@
-<h2 align="left">Welcome, Traveler! 🌙✨<br><br>I am Rizve, the CodeMage 🧙‍♂️, shaping the unseen with code and logic.<br><br>Step into my realm, where magic meets technology. 💻🔮</h2>
+<h2 align="left">Welcome, Traveler! 🌙✨<br><br>I am Rizve, the CodeSorcerer 🧙‍♂️, shaping the unseen with code and logic.<br><br>Step into my realm, where magic meets technology. 💻🔮</h2>
 
 ###
 
