@@ -1,5 +1,5 @@
 # 💫 About Me:
-Rizve | CodeSorcerer 🧙‍♂️<br>Casting spells of logic, I work in the mystical language of code, bringing to life the fantastical ideas that dwell in my imagination. Every project is a new adventure, and every line of code a step into the unknown. 🌙✨💻
+Rizve | Code_Sorcerer 🧙‍♂️<br>Casting spells of logic, I work in the mystical language of code, bringing to life the fantastical ideas that dwell in my imagination. Every project is a new adventure, and every line of code a step into the unknown. 🌙✨💻
 
 
 ## 🌐 Socials:
