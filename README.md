@@ -13,10 +13,10 @@ Currently    → crafting something interesting
 
 ### Selected Work
 
-* **[Luna-Assistant](https://github.com/khrizve/Luna-Assistant)** — personal AI assistant
-* **[RuneWiki](https://github.com/khrizve/RuneWiki)** — knowledge, built differently
-* **[MagicPix](https://github.com/khrizve/MagicPix)** — image-focused experiments
-* **[Smart_Blood-Care](https://github.com/khrizve/Smart_Blood-Care)** — technology with a purpose
+* **[luna](https://github.com/khrizve/luna)** — personal AI assistant
+* **[runewiki](https://github.com/khrizve/runewiki)** — knowledge, built differently
+* **[magicpix](https://github.com/khrizve/magicpix)** — image-focused experiments
+* **[smart-bloodcare](https://github.com/khrizve/smart-bloodcare)** — technology with a purpose
 
 ### Stack
 
