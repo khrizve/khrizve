@@ -19,9 +19,6 @@
 <img src="https://img.shields.io/badge/Builder-8957e5?style=for-the-badge" alt="Builder" />
 <img src="https://img.shields.io/badge/Sorcerer-f778ba?style=for-the-badge" alt="Sorcerer" />
 
-<a href="https://github.com/khrizve"><img src="https://img.shields.io/github/followers/khrizve?label=Followers&style=social" alt="Followers" /></a>
-<a href="https://github.com/khrizve"><img src="https://komarev.com/ghpvc/?username=khrizve&label=Profile%20views&color=8957e5&style=flat" alt="Profile views" /></a>
-
 </div>
 
 ---
